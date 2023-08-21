@@ -1,0 +1,37 @@
+main{
+    width: 100%;
+    background-color: blueviolet;
+}
+
+#um{
+    width: 50%;
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+#dois{
+width: 50%;
+background-color: rgb(234, 227, 222);
+margin: auto;
+
+}
+
+#um p{
+    font-size: 30px;
+    color: rgb(46, 27, 5);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding: 25px;
+    text-align: center;
+    
+}
+
+#dois p{
+    font-size: 30px;
+    color: deeppink;
+    padding-block: 50px;
+    text-align:center;
+    margin: 0 auto; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
